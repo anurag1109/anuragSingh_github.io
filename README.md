@@ -40,5 +40,5 @@ BACKEND-
 
 - [My github](https://github.com/anurag1109)
 - [My linkedIn](https://www.linkedin.com/in/anuragsingh0911/)
-- [My RESUME](https://drive.google.com/file/d/1OFWCSQU2LcNJfWbu8yG0XdeD0YS3Nxpl/view?usp=sharing)
+- [My RESUME](https://drive.google.com/file/d/1oHbk6ZqFDuzJypHbLVD-7hJ8KFFLIt2b/view?usp=sharing)
 - *sin.anurag12@gmail.com*
