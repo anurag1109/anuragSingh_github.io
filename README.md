@@ -39,6 +39,6 @@ BACKEND-
 ## 👨‍💻 Contact me <a name = "Contact me"></a>
 
 - [My github](https://github.com/anurag1109)
-- [My linkedIn](https://www.linkedin.com/in/anuragsingh1109)
+- [My linkedIn](https://www.linkedin.com/in/anuragsingh0911/)
 - [My RESUME](https://drive.google.com/file/d/1OFWCSQU2LcNJfWbu8yG0XdeD0YS3Nxpl/view?usp=sharing)
 - *sin.anurag12@gmail.com*
